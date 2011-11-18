@@ -6,3 +6,4 @@ cd $DIR
 git add names.txt
 git add nsids.txt
 git commit -m "Updating $TODAY"
+git push -u origin master
