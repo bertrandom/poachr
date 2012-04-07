@@ -1,5 +1,4 @@
 Peter Norby
-Manny Ventura
 Gilad Raphaelli
 Scott Schiller
 Zack Sheppard
@@ -13,7 +12,6 @@ Ross Harmes
 Timothy Denike
 Phil King
 Daniel Eiba
-Fiona Miller
 Denise Leung
 Trevor Hartsell
 Eric Gelinas
@@ -23,7 +21,6 @@ Stephen Woods
 Jamal Fanaian
 Phillip Moore
 Mike Deerkoski
-Bridget Lewis
 Chris Berry
 Sergey Morozov
 Cindy Li
