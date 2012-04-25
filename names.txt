@@ -26,11 +26,9 @@ Sergey Morozov
 Cindy Li
 Tim Miller
 Brad Peralta
-Ben Freeman
 Chris Hamilton
 Matt Jennings
 Peter Welch
-Nick Rettinghouse
 Phil Dokas
 Hugo Haas
 Marc Perry
