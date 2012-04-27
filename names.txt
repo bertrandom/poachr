@@ -1,5 +1,4 @@
 Peter Norby
-Gilad Raphaelli
 Scott Schiller
 Zack Sheppard
 Daniel Bogan
@@ -37,3 +36,4 @@ Georges Haddad
 Joshua Cohen
 Erin Wermuth
 John Ubante
+Brett Wayn
