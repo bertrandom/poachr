@@ -1,6 +1,5 @@
 Peter Norby
 Scott Schiller
-Zack Sheppard
 Daniel Bogan
 David Fusco
 Emily Yiu
