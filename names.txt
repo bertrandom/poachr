@@ -40,3 +40,4 @@ Daniel Druger
 Leo Liu
 Mutsubu Inayama
 Sai Madhavan
+Arnold Chao
