@@ -2,7 +2,6 @@ Peter Norby
 Scott Schiller
 Daniel Bogan
 Emily Yiu
-Phil Yu
 Kay Kremerskothen
 Jenny Mette
 Ross Harmes
