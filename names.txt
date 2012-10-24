@@ -23,7 +23,6 @@ Chris Hamilton
 Matt Jennings
 Peter Welch
 Phil Dokas
-Hugo Haas
 Marc Perry
 William Stubbs
 Georges Haddad
