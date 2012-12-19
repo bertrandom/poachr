@@ -9,7 +9,7 @@ Phil King
 Daniel Eiba
 Chris Martin
 Trevor Hartsell
-Eric Gelinase
+Eric Gelinas
 Markus Spiering
 Henry Lyne
 Stephen Woods
@@ -53,3 +53,5 @@ Tague Griffith
 Jonathan Tsai
 Ed Johnson
 Scott Goldblatt
+John Tregoning
+Bei Wu
