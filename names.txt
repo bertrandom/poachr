@@ -32,7 +32,6 @@ Brett
 Anna
 Sean
 Mutsubu
-Catherine
 Sai
 Arnold
 Amol
@@ -63,3 +62,4 @@ Stefano
 Prashanth
 Alex
 Ryan
+Miguel
