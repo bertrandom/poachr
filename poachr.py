@@ -11,16 +11,16 @@ html = response.read()
 
 soup = BeautifulSoup(html)
 
-buddyicons = soup.findAll('img', { "class" : "personmenu-trigger"})
+buddyicons = soup.find('table').findAll('img')
 
 names = []
 nsids = []
 
 for buddyicon in buddyicons:
 	names.append(buddyicon["alt"])
-	x = re.search('buddyicons\/(.*).jpg', buddyicon["src"])
+	x = re.search('#(.*)', buddyicon["src"])
 	nsids.append(x.group(1))
-	
+
 name_file = open(script_path + '/' + 'names.txt', 'w')
 
 for name in names:
