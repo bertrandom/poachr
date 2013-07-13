@@ -54,7 +54,6 @@ Gerard
 Srinivasan
 Nandini
 Richard
-Scott
 Archie
 Stefano
 Prashanth
@@ -68,3 +67,5 @@ John
 Shubham
 Ye
 Travis
+Marc
+Jesse
