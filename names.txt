@@ -28,7 +28,6 @@ Georges
 Brett
 Anna
 Sean
-Leo
 Mutsubu
 Wilson
 Sai
@@ -37,7 +36,6 @@ Amol
 Rajiv
 Dennis
 Ben
-Jeff
 Ayman
 Tejaswi
 Richard
