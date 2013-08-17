@@ -25,7 +25,6 @@ Phil
 Marc
 William
 Georges
-Brett
 Anna
 Sean
 Mutsubu
@@ -67,3 +66,4 @@ Marc
 Jesse
 Komma
 Satish
+Bernardo
