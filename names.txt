@@ -10,7 +10,6 @@ Trevor
 Eric
 Markus
 Bertrand
-Dr Henry
 Stephen
 Jamal
 Chris
@@ -29,7 +28,7 @@ Mutsubu
 Wilson
 Sai
 Arnold
-Amol
+O'mol
 Rajiv
 Dennis
 Ben
@@ -75,3 +74,4 @@ Andrew
 Jack
 Pablo
 Parker
+Tobias
