@@ -9,7 +9,7 @@ Chris
 Trevor
 Eric
 Markus
-Bertrand
+Bart Fun
 Stephen
 Jamal
 Chris
@@ -21,7 +21,6 @@ Matt
 Peter
 Phil
 Marc
-Georges
 Anna
 Sean
 Mutsubu
@@ -50,6 +49,7 @@ Archie
 Stefano
 Alex
 Ryan
+Shaun
 Juliet
 Nilesh
 John
