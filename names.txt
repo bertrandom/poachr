@@ -36,7 +36,6 @@ John
 Jim
 Becky
 Tague
-Ed
 John
 Anna
 Mike
