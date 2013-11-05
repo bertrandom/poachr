@@ -10,7 +10,7 @@ Trevor
 Eric
 Markus
 Bart Fun
-Stephen
+Cranky
 Jamal
 Chris
 Sergey
@@ -58,7 +58,7 @@ Jesse
 Komma
 Satish
 Bernardo
-Bhautik
+Hat
 Helen
 Rob
 Pierre
